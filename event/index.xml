@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Marco Colussi</title>
+    <link>https://warpcut.github.io/event/</link>
+      <atom:link href="https://warpcut.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Apr 2023 18:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://warpcut.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://warpcut.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>Multi-task learning for automated recess detection and distension in hemophilic patients</title>
+      <link>https://warpcut.github.io/talk/multi-task-learning-for-automated-recess-detection-and-distension-in-hemophilic-patients/</link>
+      <pubDate>Tue, 18 Apr 2023 18:00:00 +0000</pubDate>
+      <guid>https://warpcut.github.io/talk/multi-task-learning-for-automated-recess-detection-and-distension-in-hemophilic-patients/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
