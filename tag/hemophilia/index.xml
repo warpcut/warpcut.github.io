@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Marco Colussi</title>
-    <link>https://warpcut.github.io/publication-type/1/</link>
-      <atom:link href="https://warpcut.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Hemophilia | Marco Colussi</title>
+    <link>https://warpcut.github.io/tag/hemophilia/</link>
+      <atom:link href="https://warpcut.github.io/tag/hemophilia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hemophilia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://warpcut.github.io/media/icon_hue13ec9768477f6aaf9b00b431f1b1817_1098_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://warpcut.github.io/publication-type/1/</link>
+      <title>Hemophilia</title>
+      <link>https://warpcut.github.io/tag/hemophilia/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://warpcut.github.io/publication/smartcomp24/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://warpcut.github.io/publication/smartcomp24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GAJA - Guided self-Acquisition of Joint ultrAsound images</title>
-      <link>https://warpcut.github.io/publication/asmus23/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://warpcut.github.io/publication/asmus23/</guid>
       <description></description>
     </item>
     

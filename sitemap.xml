@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://warpcut.github.io/publication-type/1/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/tag/deep-learning/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/tag/hemophilia/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/publication/smartcomp24/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/tag/point-of-care/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/publication_types/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/publication/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/tags/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://warpcut.github.io/publication-type/2/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,18 +50,6 @@
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication_types/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/publication/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/tags/</loc>
-    <lastmod>2024-01-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://warpcut.github.io/tag/xai/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,16 +58,20 @@
     <lastmod>2023-10-08T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://warpcut.github.io/teaching/ambient_intelligence/</loc>
+    <lastmod>2023-10-08T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://warpcut.github.io/event/</loc>
+    <lastmod>2023-10-08T08:30:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://warpcut.github.io/teaching/</loc>
     <lastmod>2023-10-08T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://warpcut.github.io/talk/multi-task-learning-for-automated-recess-detection-and-distension-classification-in-hemophilic-patients/</loc>
     <lastmod>2023-04-18T18:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/publication-type/1/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://warpcut.github.io/publication/asmus23/</loc>

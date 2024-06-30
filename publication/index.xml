@@ -5,12 +5,20 @@
     <link>https://warpcut.github.io/publication/</link>
       <atom:link href="https://warpcut.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://warpcut.github.io/media/icon_hue13ec9768477f6aaf9b00b431f1b1817_1098_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://warpcut.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Insights on the Development of PRACTICE, a Research-oriented Healthcare Platform</title>
+      <link>https://warpcut.github.io/publication/smartcomp24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://warpcut.github.io/publication/smartcomp24/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images</title>
