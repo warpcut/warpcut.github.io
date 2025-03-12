@@ -2,133 +2,161 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://warpcut.github.io/publication-type/1/</loc>
+    <loc>http://localhost:1313/publication-type/1/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/contrastive-feature-reconstruction/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/domain-adaptation/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/wacv25/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/test-time-training/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/anomaly-detection/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/asmus24/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/ultrasound-images/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/weak-supervision/</loc>
+    <lastmod>2024-10-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/deep-learning/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/deep-learning/</loc>
+    <loc>http://localhost:1313/tag/hemophilia/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/hemophilia/</loc>
+    <loc>http://localhost:1313/publication/smartcomp24/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/smartcomp24/</loc>
+    <loc>http://localhost:1313/tag/point-of-care/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/point-of-care/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/teaching/ambient_intelligence/</loc>
+    <lastmod>2024-03-01T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication_types/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/teaching/</loc>
+    <lastmod>2024-03-01T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/tags/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/publication-type/2/</loc>
+    <loc>http://localhost:1313/publication-type/2/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/mpox23/</loc>
+    <loc>http://localhost:1313/publication/mpox23/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/audio-and-speech-processing/</loc>
+    <loc>http://localhost:1313/tag/audio-and-speech-processing/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/machine-learning/</loc>
+    <loc>http://localhost:1313/tag/machine-learning/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/xai/</loc>
+    <loc>http://localhost:1313/tag/xai/</loc>
     <lastmod>2024-01-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/talk/gaja-proof-of-concept-msk-us-guided-self-acquisition/</loc>
+    <loc>http://localhost:1313/talk/gaja-proof-of-concept-msk-us-guided-self-acquisition/</loc>
     <lastmod>2023-10-08T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/teaching/ambient_intelligence/</loc>
+    <loc>http://localhost:1313/event/</loc>
     <lastmod>2023-10-08T08:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/event/</loc>
-    <lastmod>2023-10-08T08:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/teaching/</loc>
-    <lastmod>2023-10-08T08:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/talk/multi-task-learning-for-automated-recess-detection-and-distension-classification-in-hemophilic-patients/</loc>
+    <loc>http://localhost:1313/talk/multi-task-learning-for-automated-recess-detection-and-distension-classification-in-hemophilic-patients/</loc>
     <lastmod>2023-04-18T18:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/asmus23/</loc>
+    <loc>http://localhost:1313/publication/asmus23/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/guidance/</loc>
+    <loc>http://localhost:1313/tag/guidance/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/multi-task-learning/</loc>
+    <loc>http://localhost:1313/tag/multi-task-learning/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/slides/</loc>
+    <loc>http://localhost:1313/slides/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/iswa23/</loc>
+    <loc>http://localhost:1313/publication/iswa23/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/slides/aixia/</loc>
+    <loc>http://localhost:1313/slides/aixia/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/tag/ultrasound-images/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://warpcut.github.io/publication/blood22/</loc>
+    <loc>http://localhost:1313/publication/blood22/</loc>
     <lastmod>2022-11-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication-type/3/</loc>
+    <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/publication/lrp19/</loc>
+    <loc>http://localhost:1313/publication/lrp19/</loc>
     <lastmod>2020-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/slides/example/</loc>
+    <loc>http://localhost:1313/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://warpcut.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
