@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultrasound Images | Marco Colussi, PhD</title>
+    <link>http://localhost:1313/tags/ultrasound-images/</link>
+      <atom:link href="http://localhost:1313/tags/ultrasound-images/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultrasound Images</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aca3b24d7f280695.png</url>
+      <title>Ultrasound Images</title>
+      <link>http://localhost:1313/tags/ultrasound-images/</link>
+    </image>
+    
+    <item>
+      <title>LoRIS - Weakly-Supervised Anomaly Detection for Ultrasound Images</title>
+      <link>http://localhost:1313/publication/asmus24/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asmus24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAJA - Guided self-Acquisition of Joint ultrAsound images</title>
+      <link>http://localhost:1313/publication/asmus23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asmus23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound detection of subquadricipital recess distension</title>
+      <link>http://localhost:1313/publication/iswa23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iswa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computer-Aided Diagnosis Tool for the Detection of Hemarthrosis By Remote Joint Ultrasound in Patients with Hemophilia</title>
+      <link>http://localhost:1313/publication/blood22/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/blood22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

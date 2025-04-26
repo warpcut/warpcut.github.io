@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Colussi, PhD</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Colussi, PhD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aca3b24d7f280695.png</url>
+      <title>Marco Colussi, PhD</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🇫🇷 Visiting at Ecole Centrale Nantes!</title>
+      <link>http://localhost:1313/post/nantes-visiting/</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nantes-visiting/</guid>
+      <description>&lt;p&gt;I will spend one month in France doing research at the LS2N laboratory under the supervision of prof. Diana Mateus in Nantes!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ReC-TTT: Contrastive Feature Reconstruction for Test-Time Training</title>
+      <link>http://localhost:1313/publication/wacv25/</link>
+      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wacv25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab: Ambient Intelligence and Domotics | 2025</title>
+      <link>http://localhost:1313/teaching/ambient_intelligence25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ambient_intelligence25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The continuous and rapid development of sophisticated sensing devices and advanced AI methods makes it possible to realize intelligent environments that unobtrusively support people in their daily life. Such systems may operate indoors (e.g., smart homes, smart buildings) as well as outdoors (e.g., smart cities). The aim of this course is to teach how to design and implement intelligent systems in such Ambient Intelligence scenarios, considering both technological and methodological aspects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://elearning.unimib.it/course/info.php?id=57807&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🌵 Headed to Tucson for WACV 2025!</title>
+      <link>http://localhost:1313/post/wacv25/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/wacv25/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;am happy to share that i am starting my PhD visiting period of 6 months in Montreal, Canda, at the LIVIA Lab, under the supervision of professor Christian Desrosiers and Jose Dolz, working on anomaly detection and domain-adaptation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🐪 See you in Marrakesh for MICCAI 2024!</title>
+      <link>http://localhost:1313/post/miccai24/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/miccai24/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;am happy to share that i am starting my PhD visiting period of 6 months in Montreal, Canda, at the LIVIA Lab, under the supervision of professor Christian Desrosiers and Jose Dolz, working on anomaly detection and domain-adaptation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LoRIS - Weakly-Supervised Anomaly Detection for Ultrasound Images</title>
+      <link>http://localhost:1313/publication/asmus24/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asmus24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I will be volunteering at ECCV 2024 in Milan!</title>
+      <link>http://localhost:1313/post/eccv24/</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/eccv24/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;am happy to share that i am starting my PhD visiting period of 6 months in Montreal, Canda, at the LIVIA Lab, under the supervision of professor Christian Desrosiers and Jose Dolz, working on anomaly detection and domain-adaptation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Insights on the Development of PRACTICE, a Research-oriented Healthcare Platform</title>
+      <link>http://localhost:1313/publication/smartcomp24/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/smartcomp24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lab: Ambient Intelligence and Domotics | 2024</title>
+      <link>http://localhost:1313/teaching/ambient_intelligence24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ambient_intelligence24/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: The continuous and rapid development of sophisticated sensing devices and advanced AI methods makes it possible to realize intelligent environments that unobtrusively support people in their daily life. Such systems may operate indoors (e.g., smart homes, smart buildings) as well as outdoors (e.g., smart cities). The aim of this course is to teach how to design and implement intelligent systems in such Ambient Intelligence scenarios, considering both technological and methodological aspects.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://elearning.unimib.it/course/info.php?id=51015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images</title>
+      <link>http://localhost:1313/publication/mpox23/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mpox23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>🇨🇦 PhD Visiting at LIVIA ÈTS Montreal!</title>
+      <link>http://localhost:1313/post/canada-visiting/</link>
+      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/canada-visiting/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;am happy to share that i am starting my PhD visiting period of 6 months in Montreal, Canda, at the LIVIA Lab, under the supervision of professor Christian Desrosiers and Jose Dolz, working on anomaly detection and domain-adaptation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GAJA - Guided self-Acquisition of Joint ultrAsound images</title>
+      <link>http://localhost:1313/publication/asmus23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asmus23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound detection of subquadricipital recess distension</title>
+      <link>http://localhost:1313/publication/iswa23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iswa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computer-Aided Diagnosis Tool for the Detection of Hemarthrosis By Remote Joint Ultrasound in Patients with Hemophilia</title>
+      <link>http://localhost:1313/publication/blood22/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/blood22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting deep urban sound classification using Layer-wise Relevance Propagation</title>
+      <link>http://localhost:1313/publication/lrp19/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lrp19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Marco Colussi, PhD</title>
+    <link>http://localhost:1313/tags/machine-learning/</link>
+      <atom:link href="http://localhost:1313/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_aca3b24d7f280695.png</url>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Lab: Ambient Intelligence and Domotics | 2025</title>
+      <link>http://localhost:1313/teaching/ambient_intelligence25/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ambient_intelligence25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: &amp;ldquo;The continuous and rapid development of sophisticated sensing devices and advanced AI methods makes it possible to realize intelligent environments that unobtrusively support people in their daily life. Such systems may operate indoors (e.g., smart homes, smart buildings) as well as outdoors (e.g., smart cities). The aim of this course is to teach how to design and implement intelligent systems in such Ambient Intelligence scenarios, considering both technological and methodological aspects.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://elearning.unimib.it/course/info.php?id=57807&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lab: Ambient Intelligence and Domotics | 2024</title>
+      <link>http://localhost:1313/teaching/ambient_intelligence24/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/ambient_intelligence24/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: &amp;ldquo;The continuous and rapid development of sophisticated sensing devices and advanced AI methods makes it possible to realize intelligent environments that unobtrusively support people in their daily life. Such systems may operate indoors (e.g., smart homes, smart buildings) as well as outdoors (e.g., smart cities). The aim of this course is to teach how to design and implement intelligent systems in such Ambient Intelligence scenarios, considering both technological and methodological aspects.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://elearning.unimib.it/course/info.php?id=51015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Transfer Learning and Explainable Solution to Detect mpox from Smartphones images</title>
+      <link>http://localhost:1313/publication/mpox23/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mpox23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAJA - Guided self-Acquisition of Joint ultrAsound images</title>
+      <link>http://localhost:1313/publication/asmus23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/asmus23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound detection of subquadricipital recess distension</title>
+      <link>http://localhost:1313/publication/iswa23/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/iswa23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computer-Aided Diagnosis Tool for the Detection of Hemarthrosis By Remote Joint Ultrasound in Patients with Hemophilia</title>
+      <link>http://localhost:1313/publication/blood22/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/blood22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting deep urban sound classification using Layer-wise Relevance Propagation</title>
+      <link>http://localhost:1313/publication/lrp19/</link>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lrp19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
