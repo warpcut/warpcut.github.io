@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PostDoc in Artificial Intelligence for Medical Imaging
+role: PostDoc in Computer Vision for Medical Imaging
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
