@@ -36,7 +36,7 @@ tags:
 - Anomaly detection
 - Weak-supervision
 - Ultrasound images
-featured: True
+featured: False
 
 # links:
 # - name: ""

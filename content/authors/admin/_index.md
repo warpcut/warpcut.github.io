@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/warpcut
   - icon: brands/linkedin
-    url: https://www.linkedin.com/marcocolussi
+    url: https://www.linkedin.com/in/marcocolussi
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=KK-bIdsAAAAJ&hl=en
   - icon: academicons/orcid

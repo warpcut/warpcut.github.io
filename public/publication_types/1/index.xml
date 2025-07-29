@@ -5,12 +5,20 @@
     <link>http://localhost:1313/publication_types/1/</link>
       <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 25 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_aca3b24d7f280695.png</url>
       <title>1</title>
       <link>http://localhost:1313/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>MIAS-SAM: Medical Image Anomaly Segmentation without thresholding</title>
+      <link>http://localhost:1313/publication/bmvc25/</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bmvc25/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ReC-TTT: Contrastive Feature Reconstruction for Test-Time Training</title>
